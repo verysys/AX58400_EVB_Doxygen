@@ -1,0 +1,4 @@
+<map id="OBJ_GetObjectHandle" name="OBJ_GetObjectHandle">
+<area shape="rect" id="node1" title="The function looks in all objects of the dictionary after the indicated index and returns a handle if..." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="208,5,384,31"/>
+</map>

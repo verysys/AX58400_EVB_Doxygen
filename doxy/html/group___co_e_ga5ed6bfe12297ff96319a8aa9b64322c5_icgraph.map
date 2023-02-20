@@ -1,0 +1,12 @@
+<map id="OBJ_GetDesc" name="OBJ_GetDesc">
+<area shape="rect" id="node1" title="The function returns size and description string of the requested entry." alt="" coords="1103,31,1209,56"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gaea424209fa91887e00766d2f2e1dcc6a" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="924,31,1055,56"/>
+<area shape="rect" id="node3" href="$group___co_e.html#gaf5799231571509afd06868a25169af9d" title="This function is called when a CoE service to be sent is stored and can." alt="" coords="748,5,876,31"/>
+<area shape="rect" id="node8" href="$group___co_e.html#ga31df6aa4a5c916bd4ead5973984bac28" title="This function is called when a CoE (CAN application layer over EtherCAT) service is received from the..." alt="" coords="752,55,872,80"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#gac01d66e6d768b88214b6f886c61d6147" title="This function is called when the Master has read the Send&#45;Mailbox." alt="" coords="371,5,523,31"/>
+<area shape="rect" id="node5" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="231,31,323,56"/>
+<area shape="rect" id="node6" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,31,183,56"/>
+<area shape="rect" id="node7" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,56,56"/>
+<area shape="rect" id="node9" href="$group___mailbox.html#ga1fdaabc619ee0bb189574d5c4f989d43" title="The function checks the mailbox header for the requested service and calls the." alt="" coords="571,55,700,80"/>
+<area shape="rect" id="node10" href="$group___mailbox.html#ga8beea7a777598316004ce74de245a97a" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="403,55,490,80"/>
+</map>

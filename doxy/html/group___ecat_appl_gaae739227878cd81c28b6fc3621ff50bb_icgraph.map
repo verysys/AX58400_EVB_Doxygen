@@ -1,0 +1,14 @@
+<map id="GetSystemTimeDelay" name="GetSystemTimeDelay">
+<area shape="rect" id="node1" title="indicates if the initialization is finished" alt="" coords="1020,56,1171,82"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga46f3f504345151303bd26217075d03e6" title="ECAT_Application (prev. SSC versions &quot;COE_Application&quot;) this function calculates and the physical pro..." alt="" coords="581,6,709,31"/>
+<area shape="rect" id="node5" href="$group___ecat_appl.html#ga94df637c8d3695fe072f08ba6ceff632" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="767,31,972,56"/>
+<area shape="rect" id="node6" href="$group___ecat_appl.html#ga5f754886fd72070e2fe19fc6bf208a16" title="This function will copies the outputs from the ESC memory to the local memory. This function is only ..." alt="" coords="572,56,719,82"/>
+<area shape="rect" id="node7" href="$group___ecat_appl.html#ga71c82e125fca871d7bf37dbc6b71fcf3" title="This function will copies the inputs from the local memory to the ESC memory." alt="" coords="801,132,937,158"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,107,183,132"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,107,56,132"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga4e38d64325a35d7925171e6fe3a360f4" title="This function is called in case of the state transition from PREOP to SAFEOP. |brief the areas of the..." alt="" coords="583,158,707,183"/>
+<area shape="rect" id="node9" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="419,182,524,207"/>
+<area shape="rect" id="node10" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="239,158,362,183"/>
+<area shape="rect" id="node11" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="255,207,347,232"/>
+<area shape="rect" id="node12" href="$group___e_s_m.html#gac55e38cdbb489cea7e6bf78befda716d" title="This function shall be called by the application to trigger state transition in case." alt="" coords="231,256,371,282"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SDOS_SdoInfoInd" name="SDOS_SdoInfoInd">
+<area shape="rect" id="node1" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="5,156,136,181"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="184,5,341,31"/>
+<area shape="rect" id="node4" href="$group___co_e.html#ga5ed6bfe12297ff96319a8aa9b64322c5" title="The function returns size and description string of the requested entry." alt="" coords="209,55,316,80"/>
+<area shape="rect" id="node6" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="410,156,549,181"/>
+<area shape="rect" id="node7" href="$group___co_e.html#gab1a0b27a06131a26c75d6a3f59d1ad14" title="The function counts the number of objects of the requested list type." alt="" coords="187,205,339,231"/>
+<area shape="rect" id="node9" href="$group___co_e.html#ga84c10b0b41cf926e82872533caa95e90" title="The function returns the Obj&#45;Desc of an object to allow the application to define the object dictiona..." alt="" coords="199,304,326,329"/>
+<area shape="rect" id="node10" href="$group___co_e.html#ga8f404783e0616ed89ef30e488781b74b" title="The function looks in all objects of the dictionary after the indicated index and returns a handle if..." alt="" coords="185,255,340,280"/>
+<area shape="rect" id="node11" href="$group___co_e.html#ga65b22bbfb0cf22f30f4d7727aea493f5" title="The function copies (the part of) the object list in the mailbox buffer." alt="" coords="195,156,330,181"/>
+<area shape="rect" id="node3" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="390,5,569,31"/>
+<area shape="rect" id="node5" href="$group___co_e.html#ga0101708ef9bb0404af2a6072cef76f1f" title="The function copies the Number in the string pStr, which shall be initialized with 000." alt="" coords="389,55,569,80"/>
+<area shape="rect" id="node8" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="391,205,567,231"/>
+</map>

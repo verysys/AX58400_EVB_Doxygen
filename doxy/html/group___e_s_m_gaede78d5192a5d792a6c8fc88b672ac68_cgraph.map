@@ -1,0 +1,4 @@
+<map id="CheckSmSettings" name="CheckSmSettings">
+<area shape="rect" id="node1" title="This function checks all SM channels." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga814ac14c4e4c2a930673b24915731880" title="This function is called to read the SYNC Manager channel descriptions of the process data SYNC Manage..." alt="" coords="181,5,280,31"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="COE_ContinueInd" name="COE_ContinueInd">
+<area shape="rect" id="node1" title="This function is called when a CoE service to be sent is stored and can." alt="" coords="5,105,133,131"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="360,5,517,31"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gaea424209fa91887e00766d2f2e1dcc6a" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="181,131,312,156"/>
+<area shape="rect" id="node3" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="566,5,745,31"/>
+<area shape="rect" id="node5" href="$group___co_e.html#ga5ed6bfe12297ff96319a8aa9b64322c5" title="The function returns size and description string of the requested entry." alt="" coords="385,55,492,80"/>
+<area shape="rect" id="node7" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="586,205,725,231"/>
+<area shape="rect" id="node8" href="$group___co_e.html#gab1a0b27a06131a26c75d6a3f59d1ad14" title="The function counts the number of objects of the requested list type." alt="" coords="363,255,515,280"/>
+<area shape="rect" id="node10" href="$group___co_e.html#ga84c10b0b41cf926e82872533caa95e90" title="The function returns the Obj&#45;Desc of an object to allow the application to define the object dictiona..." alt="" coords="375,156,502,181"/>
+<area shape="rect" id="node11" href="$group___co_e.html#ga8f404783e0616ed89ef30e488781b74b" title="The function looks in all objects of the dictionary after the indicated index and returns a handle if..." alt="" coords="361,304,516,329"/>
+<area shape="rect" id="node12" href="$group___co_e.html#ga65b22bbfb0cf22f30f4d7727aea493f5" title="The function copies (the part of) the object list in the mailbox buffer." alt="" coords="371,205,506,231"/>
+<area shape="rect" id="node6" href="$group___co_e.html#ga0101708ef9bb0404af2a6072cef76f1f" title="The function copies the Number in the string pStr, which shall be initialized with 000." alt="" coords="565,55,745,80"/>
+<area shape="rect" id="node9" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="567,255,743,280"/>
+</map>

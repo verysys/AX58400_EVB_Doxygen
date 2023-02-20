@@ -1,0 +1,14 @@
+<map id="MainInit" name="MainInit">
+<area shape="rect" id="node1" title="Initialize the generic slave stack." alt="" coords="5,129,73,155"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gaf93b3e8df2c788e406a9d379806515ca" title="This function initialize the several objects." alt="" coords="121,55,217,80"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga0f8c9a93c3adc935765074b5c28386e7" title="This function initialize the EtherCAT Slave Interface." alt="" coords="128,203,211,228"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga615a5e76634bb7b25eb4c46ade0e21ea" title="This function clear the object dictionary." alt="" coords="279,5,447,31"/>
+<area shape="rect" id="node5" href="$group___co_e.html#gae5486298b12aa22d4e341970c32222fc" title="This function initialize the object dictionary." alt="" coords="285,55,440,80"/>
+<area shape="rect" id="node4" href="$group___co_e.html#ga9a6ebba06ebd874ce9789db7a15391ac" title="This function removes an object to the object dictionary." alt="" coords="508,5,667,31"/>
+<area shape="rect" id="node7" href="$group___co_e.html#gad49be12b63bed6faee53af1907e9d7d4" title="This function intialize the CoE Interface." alt="" coords="325,104,401,129"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="278,153,447,179"/>
+<area shape="rect" id="node9" href="$group___mailbox.html#ga6b06545f8b5a846627db49ba48fb802d" title="This function intialize the Mailbox Interface." alt="" coords="325,203,401,228"/>
+<area shape="rect" id="node10" href="$group___e_s_m.html#ga5ff723c2f6832460c934905fb793854c" title="This function makes an logical and with the AL Event Mask register (0x204)" alt="" coords="293,252,432,277"/>
+<area shape="rect" id="node11" href="$group___e_s_m.html#gad679fd59022ecf652f8fd101dfbf6b27" title="The function changes the state of the EtherCAT ASIC to the requested." alt="" coords="315,301,411,327"/>
+<area shape="rect" id="node12" href="$group___e_s_m.html#ga6ca0f4eed56b537df7945db757b70abf" title="This function reads the EEPROM loaded state." alt="" coords="265,351,460,376"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Read0x10F8" name="Read0x10F8">
+<area shape="rect" id="node1" title="This function reads the object 0x10F8." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gaf09954084da10934f63945ef38e6b8b5" title="This function updates the local timestamp object (0x10F8) and has to be called at least every 4...." alt="" coords="149,5,304,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="COE_Main" name="COE_Main">
+<area shape="rect" id="node1" title="is called for background calculations which should not influence the ECAT_Application in synchronous ..." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gae51ad4f61320c17615af2b08d385e29d" title="This function is called when a SDO response shall be sent." alt="" coords="140,5,255,31"/>
+<area shape="rect" id="node3" href="$group___co_e.html#gadf3e4233e53be264db201a3d39489646" title="This function is called when a SDO response shall be sent." alt="" coords="303,5,372,31"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="420,5,577,31"/>
+<area shape="rect" id="node5" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="625,5,804,31"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UpdateEEPROMLoadedState" name="UpdateEEPROMLoadedState">
+<area shape="rect" id="node1" title="This function reads the EEPROM loaded state." alt="" coords="572,105,767,131"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="419,80,524,105"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga0f8c9a93c3adc935765074b5c28386e7" title="This function initialize the EtherCAT Slave Interface." alt="" coords="430,129,513,155"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="239,5,362,31"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="255,55,347,80"/>
+<area shape="rect" id="node7" href="$group___e_s_m.html#gac55e38cdbb489cea7e6bf78befda716d" title="This function shall be called by the application to trigger state transition in case." alt="" coords="231,104,371,129"/>
+<area shape="rect" id="node4" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,55,183,80"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,105,56,131"/>
+<area shape="rect" id="node9" href="$group___ecat_appl.html#ga7b51e775a5a1c79869cc5a12e5dd6a48" title="Initialize the generic slave stack." alt="" coords="109,129,177,155"/>
+</map>

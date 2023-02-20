@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="The application entry point." alt="" coords="5,177,56,203"/>
+<area shape="rect" id="node2" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="369,128,471,153"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#ga7b51e775a5a1c79869cc5a12e5dd6a48" title="Initialize the generic slave stack." alt="" coords="386,203,454,228"/>
+<area shape="rect" id="node15" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="160,1123,239,1148"/>
+<area shape="rect" id="node49" href="$main_8c.html#a336c5acb34a801b2984e602b97ed7b73" title="Peripherals Common Clock Configuration." alt="" coords="104,128,295,153"/>
+<area shape="rect" id="node50" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="126,177,273,203"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gaf93b3e8df2c788e406a9d379806515ca" title="This function initialize the several objects." alt="" coords="600,55,696,80"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga0f8c9a93c3adc935765074b5c28386e7" title="This function initialize the EtherCAT Slave Interface." alt="" coords="607,203,689,228"/>
+<area shape="rect" id="node5" href="$group___co_e.html#ga615a5e76634bb7b25eb4c46ade0e21ea" title="This function clear the object dictionary." alt="" coords="812,55,980,80"/>
+<area shape="rect" id="node7" href="$group___co_e.html#gae5486298b12aa22d4e341970c32222fc" title="This function initialize the object dictionary." alt="" coords="819,5,973,31"/>
+<area shape="rect" id="node6" href="$group___co_e.html#ga9a6ebba06ebd874ce9789db7a15391ac" title="This function removes an object to the object dictionary." alt="" coords="1045,229,1203,255"/>
+<area shape="rect" id="node9" href="$group___co_e.html#gad49be12b63bed6faee53af1907e9d7d4" title="This function intialize the CoE Interface." alt="" coords="858,153,934,179"/>
+<area shape="rect" id="node10" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="811,203,981,228"/>
+<area shape="rect" id="node11" href="$group___mailbox.html#ga6b06545f8b5a846627db49ba48fb802d" title="This function intialize the Mailbox Interface." alt="" coords="858,104,934,129"/>
+<area shape="rect" id="node12" href="$group___e_s_m.html#ga5ff723c2f6832460c934905fb793854c" title="This function makes an logical and with the AL Event Mask register (0x204)" alt="" coords="827,304,965,329"/>
+<area shape="rect" id="node13" href="$group___e_s_m.html#gad679fd59022ecf652f8fd101dfbf6b27" title="The function changes the state of the EtherCAT ASIC to the requested." alt="" coords="848,649,944,675"/>
+<area shape="rect" id="node14" href="$group___e_s_m.html#ga6ca0f4eed56b537df7945db757b70abf" title="This function reads the EEPROM loaded state." alt="" coords="799,353,993,379"/>
+<area shape="rect" id="node16" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="359,824,481,849"/>
+<area shape="rect" id="node32" href="$group___co_e.html#ga60e0b49d12eedc184aafe91479d2919f" title="is called for background calculations which should not influence the ECAT_Application in synchronous ..." alt="" coords="377,1099,463,1124"/>
+<area shape="rect" id="node34" href="$group___co_e.html#gaf09954084da10934f63945ef38e6b8b5" title="This function updates the local timestamp object (0x10F8) and has to be called at least every 4...." alt="" coords="343,1148,497,1173"/>
+<area shape="rect" id="node35" href="$group___ecat_appl.html#ga46f3f504345151303bd26217075d03e6" title="ECAT_Application (prev. SSC versions &quot;COE_Application&quot;) this function calculates and the physical pro..." alt="" coords="356,1273,484,1299"/>
+<area shape="rect" id="node39" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="374,949,466,975"/>
+<area shape="rect" id="node45" href="$group___ecat_appl.html#ga71c82e125fca871d7bf37dbc6b71fcf3" title="This function will copies the inputs from the local memory to the ESC memory." alt="" coords="352,1400,488,1425"/>
+<area shape="rect" id="node47" href="$group___ecat_appl.html#ga5f754886fd72070e2fe19fc6bf208a16" title="This function will copies the outputs from the ESC memory to the local memory. This function is only ..." alt="" coords="347,1197,493,1223"/>
+<area shape="rect" id="node17" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="595,724,701,749"/>
+<area shape="rect" id="node18" href="$group___a_x58400___motor_control.html#gaf0c28d8d8b5a8fd3aa49d6ee8a5b7c68" title="The function is called when an error state was acknowledged by the master." alt="" coords="830,699,962,724"/>
+<area shape="rect" id="node19" href="$group___a_x58400___motor_control.html#gaeab8abfcdc411ac09ca7b563ae8ce668" title="This function calculates the process data sizes from the actual SM&#45;PDO&#45;Assign and PDO mapping." alt="" coords="813,403,979,428"/>
+<area shape="rect" id="node20" href="$group___a_x58400___motor_control.html#ga10edce108416acc01c4b7b481d7a7780" title="The function is called in the state transition from PREOP to SAFEOP when all general settings were ch..." alt="" coords="813,849,979,875"/>
+<area shape="rect" id="node21" href="$group___a_x58400___motor_control.html#gaf2282473e4ae3479589e07847586f5d3" title="The function is called in the state transition from INIT to PREOP when all general settings were chec..." alt="" coords="805,899,987,924"/>
+<area shape="rect" id="node22" href="$group___a_x58400___motor_control.html#ga2a0075004601da0f9c558113a8771678" title="The function is called in the state transition from SAFEOP to OP when all general settings were check..." alt="" coords="809,948,983,973"/>
+<area shape="rect" id="node23" href="$group___a_x58400___motor_control.html#gafcb1060b4d5d58221f9a7aa6daabca53" title="The function is called in the state transition from SAFEOP to PREEOP to stop the input handler...." alt="" coords="814,997,978,1023"/>
+<area shape="rect" id="node24" href="$group___a_x58400___motor_control.html#ga0d64aa96989d6bd9d590f46bb8e1d175" title="The function is called in the state transition from PREEOP to INIT to stop the mailbox handler...." alt="" coords="806,1047,986,1072"/>
+<area shape="rect" id="node25" href="$group___a_x58400___motor_control.html#gaa71d511694059cb465b2890baa4a5c01" title="The function is called in the state transition from OP to SAFEOP to stop the output handler...." alt="" coords="809,1096,983,1121"/>
+<area shape="rect" id="node26" href="$group___e_s_m.html#gade5fc53052cdf4c9e5074167f55a60a3" title="This function is called when a X to Init transition is completed." alt="" coords="825,452,967,477"/>
+<area shape="rect" id="node27" href="$group___e_s_m.html#gafb61a383ad6c7b194090b4a6b6d865e7" title="Called from INIT to BOOT." alt="" coords="859,501,933,527"/>
+<area shape="rect" id="node28" href="$group___e_s_m.html#ga38997ffe03cdd9d93fe42eb547375185" title="Called in the state transition from BOOT to Init." alt="" coords="860,551,932,576"/>
+<area shape="rect" id="node29" href="$group___e_s_m.html#gaede78d5192a5d792a6c8fc88b672ac68" title="This function checks all SM channels." alt="" coords="832,600,960,625"/>
+<area shape="rect" id="node30" href="$group___e_s_m.html#ga283de727ed7dab2cbd5d97a8e182148e" title="This function enables a Sync Manager channel." alt="" coords="1041,749,1207,775"/>
+<area shape="rect" id="node31" href="$group___mailbox.html#ga499ed60c2ca77715c1a51b56545ee7c0" title="This function includes the state transition from INIT to." alt="" coords="808,800,984,825"/>
+<area shape="rect" id="node33" href="$group___co_e.html#gae51ad4f61320c17615af2b08d385e29d" title="This function is called when a SDO response shall be sent." alt="" coords="591,1099,705,1124"/>
+<area shape="rect" id="node36" href="$group___a_x58400___motor_control.html#ga9607e14bdd12fe885d737ea68ef53c86" title="This function will called from the synchronisation ISR or from the mainloop if no synchronisation is ..." alt="" coords="585,1299,711,1324"/>
+<area shape="rect" id="node37" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="821,1299,971,1324"/>
+<area shape="rect" id="node38" href="$group___ecat_appl.html#ga94df637c8d3695fe072f08ba6ceff632" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="545,1249,751,1275"/>
+<area shape="rect" id="node40" href="$group___e_s_m.html#ga56dd01ef4d44ebaa606707358a44fed0" title="This function is called cyclic if a state transition is pending (bEcatWaitForAlControlRes == TRUE)" alt="" coords="593,899,703,924"/>
+<area shape="rect" id="node41" href="$group___mailbox.html#ga89b696c2f3db8369da2e59994a812f8d" title="This function is used to check if the received mailbox command can be processed." alt="" coords="799,1145,993,1171"/>
+<area shape="rect" id="node42" href="$group___mailbox.html#gac01d66e6d768b88214b6f886c61d6147" title="This function is called when the Master has read the Send&#45;Mailbox." alt="" coords="572,1000,724,1025"/>
+<area shape="rect" id="node43" href="$group___mailbox.html#gac477386846f63a8300f9e6f411acadc9" title="This function is called if the Master has requested a resending of the last." alt="" coords="563,253,733,279"/>
+<area shape="rect" id="node44" href="$group___mailbox.html#ga8beea7a777598316004ce74de245a97a" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="605,1049,691,1075"/>
+<area shape="rect" id="node46" href="$group___a_x58400___motor_control.html#ga264ac6c535cc8b96fe6e38dcbf66d78c" title="This function will copies the inputs from the local memory to the ESC memory to the hardware." alt="" coords="577,1451,719,1476"/>
+<area shape="rect" id="node48" href="$group___a_x58400___motor_control.html#gab2f2a02f0a6ad6748c8b03873d496ed7" title="This function will copies the outputs from the ESC memory to the local memory to the hardware." alt="" coords="573,1148,723,1173"/>
+</map>

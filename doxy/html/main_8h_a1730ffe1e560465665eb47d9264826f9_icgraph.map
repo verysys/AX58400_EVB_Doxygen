@@ -1,0 +1,8 @@
+<map id="Error_Handler" name="Error_Handler">
+<area shape="rect" id="node1" title="This function is executed in case of error occurrence." alt="" coords="343,105,445,131"/>
+<area shape="rect" id="node2" href="$stm32h7xx__hal__msp_8c.html#a17f583be14b22caffa6c4e56dcd035ef" title="SPI MSP Initialization This function configures the hardware resources used in this example." alt="" coords="136,5,263,31"/>
+<area shape="rect" id="node3" href="$stm32h7xx__hal__msp_8c.html#a0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="128,55,271,80"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,156,56,181"/>
+<area shape="rect" id="node5" href="$main_8c.html#a336c5acb34a801b2984e602b97ed7b73" title="Peripherals Common Clock Configuration." alt="" coords="104,156,295,181"/>
+<area shape="rect" id="node6" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="126,205,273,231"/>
+</map>

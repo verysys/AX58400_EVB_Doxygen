@@ -1,0 +1,17 @@
+<map id="OBJ_GetEntryDesc" name="OBJ_GetEntryDesc">
+<area shape="rect" id="node1" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="1303,107,1441,132"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gab1a0b27a06131a26c75d6a3f59d1ad14" title="The function counts the number of objects of the requested list type." alt="" coords="1103,5,1255,31"/>
+<area shape="rect" id="node3" href="$group___co_e.html#gaea424209fa91887e00766d2f2e1dcc6a" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="924,81,1055,107"/>
+<area shape="rect" id="node12" href="$group___co_e.html#ga65b22bbfb0cf22f30f4d7727aea493f5" title="The function copies (the part of) the object list in the mailbox buffer." alt="" coords="1111,107,1246,132"/>
+<area shape="rect" id="node13" href="$group___co_e.html#ga846de2860cbe964ff1c13835657fa630" title="This function reads the requested object." alt="" coords="1135,156,1222,181"/>
+<area shape="rect" id="node15" href="$group___co_e.html#gac4ba05e9e88b439378bfdad39f8c3330" title="This function writes the requested object." alt="" coords="1136,205,1221,231"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gaf5799231571509afd06868a25169af9d" title="This function is called when a CoE service to be sent is stored and can." alt="" coords="748,81,876,107"/>
+<area shape="rect" id="node9" href="$group___co_e.html#ga31df6aa4a5c916bd4ead5973984bac28" title="This function is called when a CoE (CAN application layer over EtherCAT) service is received from the..." alt="" coords="752,132,872,157"/>
+<area shape="rect" id="node5" href="$group___mailbox.html#gac01d66e6d768b88214b6f886c61d6147" title="This function is called when the Master has read the Send&#45;Mailbox." alt="" coords="371,83,523,108"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="231,108,323,133"/>
+<area shape="rect" id="node7" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,108,183,133"/>
+<area shape="rect" id="node8" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,108,56,133"/>
+<area shape="rect" id="node10" href="$group___mailbox.html#ga1fdaabc619ee0bb189574d5c4f989d43" title="The function checks the mailbox header for the requested service and calls the." alt="" coords="571,132,700,157"/>
+<area shape="rect" id="node11" href="$group___mailbox.html#ga8beea7a777598316004ce74de245a97a" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="403,132,490,157"/>
+<area shape="rect" id="node14" href="$group___co_e.html#ga0394abd53279e9d89c617f253ae70716" title="This function is called when a SDO request service is received from the master and calls depending fr..." alt="" coords="935,156,1043,181"/>
+</map>

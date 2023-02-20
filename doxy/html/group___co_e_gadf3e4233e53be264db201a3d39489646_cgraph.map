@@ -1,0 +1,5 @@
+<map id="SdoRes" name="SdoRes">
+<area shape="rect" id="node1" title="This function is called when a SDO response shall be sent." alt="" coords="5,5,75,31"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="123,5,280,31"/>
+<area shape="rect" id="node3" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="328,5,507,31"/>
+</map>

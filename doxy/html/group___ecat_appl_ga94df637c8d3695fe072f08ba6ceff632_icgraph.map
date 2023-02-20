@@ -1,0 +1,7 @@
+<map id="HandleCycleTimeMeasurement" name="HandleCycleTimeMeasurement">
+<area shape="rect" id="node1" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="425,31,631,56"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga46f3f504345151303bd26217075d03e6" title="ECAT_Application (prev. SSC versions &quot;COE_Application&quot;) this function calculates and the physical pro..." alt="" coords="240,5,368,31"/>
+<area shape="rect" id="node5" href="$group___ecat_appl.html#ga5f754886fd72070e2fe19fc6bf208a16" title="This function will copies the outputs from the ESC memory to the local memory. This function is only ..." alt="" coords="231,55,377,80"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,31,183,56"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,56,56"/>
+</map>

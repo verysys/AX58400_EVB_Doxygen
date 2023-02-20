@@ -1,0 +1,21 @@
+<map id="0xF000 | Modular device profile" name="0xF000 | Modular device profile">
+<area shape="rect" id="node1" href="$group___a_x58400___motor_control.html" title=" " alt="" coords="5,434,163,459"/>
+<area shape="rect" id="node16" title="Object 0xF000 (Modular device profile) definition." alt="" coords="212,427,376,467"/>
+<area shape="rect" id="node2" href="$group___ci_a402_objects.html" title=" " alt="" coords="659,23,801,49"/>
+<area shape="rect" id="node3" href="$group___co_e.html" title=" " alt="" coords="651,73,809,113"/>
+<area shape="rect" id="node4" href="$group__x1600.html" title="Object 0x1600 (RxPdoMappingCspCsv) definition." alt="" coords="624,138,836,163"/>
+<area shape="rect" id="node5" href="$group__x1601.html" title="Object 0x1601 (RxPdoMappingCsp) definition." alt="" coords="636,187,824,213"/>
+<area shape="rect" id="node6" href="$group__x1602.html" title="Object 0x1602 (RxPdoMappingCsv) definition." alt="" coords="636,237,824,262"/>
+<area shape="rect" id="node7" href="$group__x1_a00.html" title="Object 0x1A00 (TxPdoMappingCspCsv) definition." alt="" coords="624,286,836,311"/>
+<area shape="rect" id="node8" href="$group__x1_a01.html" title="Object 0x1A01 (TxPdoMappingCsp) definition." alt="" coords="636,335,824,361"/>
+<area shape="rect" id="node9" href="$group__x1_a02.html" title="Object 0x1A02 (TxPdoMappingCsv) definition." alt="" coords="636,385,824,410"/>
+<area shape="rect" id="node10" href="$group__x1_c12.html" title="Object 0x1C12 (SM2 assignment) definition." alt="" coords="642,434,818,459"/>
+<area shape="rect" id="node11" href="$group__x1_c13.html" title="Object 0x1C13 (SM3 assignment) definition." alt="" coords="642,483,818,509"/>
+<area shape="rect" id="node12" href="$group__x607_d.html" title="Object 0x607D (Software position limit) definition." alt="" coords="641,533,819,573"/>
+<area shape="rect" id="node13" href="$group__x6099.html" title="Object 0x6099 (Homing speed) definition." alt="" coords="651,598,809,623"/>
+<area shape="rect" id="node14" href="$group__x60_c2.html" title="Object 0x60C2 (Interpolation time period) definition." alt="" coords="655,648,805,688"/>
+<area shape="rect" id="node15" href="$group__x60_e3.html" title="Object 0x60E3 (Supported homing methods) definition." alt="" coords="662,712,798,752"/>
+<area shape="rect" id="node17" href="$group__x_f010.html" title="Object 0xF010 (Module profile list) definition." alt="" coords="641,777,819,802"/>
+<area shape="rect" id="node18" href="$group__x_f030.html" title="Object 0xF030 (Configured module Ident list) definition." alt="" coords="661,827,799,867"/>
+<area shape="rect" id="node19" href="$group__x_f050.html" title="Object 0xF050 (Module detected list) definition." alt="" coords="633,891,827,917"/>
+</map>

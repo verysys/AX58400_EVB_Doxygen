@@ -1,0 +1,7 @@
+<map id="APPL_Application" name="APPL_Application">
+<area shape="rect" id="node1" title="This function will called from the synchronisation ISR or from the mainloop if no synchronisation is ..." alt="" coords="5,31,132,56"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#ga05e3b8d0f5b49b8fd5e5b1dfd8f3c5c4" title="CiA402&#45;Application." alt="" coords="191,5,327,31"/>
+<area shape="rect" id="node4" href="$group___a_x58400___motor_control.html#ga1d0e1e0c6b6c9d7f335107ff5ca6f8f0" title="CiA402_UpdateObjects." alt="" coords="180,55,339,80"/>
+<area shape="rect" id="node3" href="$group___a_x58400___motor_control.html#gac2d84794cdfcac29269a7b848b817263" title="CiA402&#45;TransitionAction." alt="" coords="387,5,553,31"/>
+<area shape="rect" id="node5" href="$group___a_x58400___motor_control.html#gaff043e554275519b0c1a6c250f6b4ce1" title="CiA402_LocalError." alt="" coords="405,55,535,80"/>
+</map>

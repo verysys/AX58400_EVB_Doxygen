@@ -1,0 +1,11 @@
+<map id="FOE_ServiceInd" name="FOE_ServiceInd">
+<area shape="rect" id="node1" title="This function is called when a FoE (File Access over EtherCAT) service is received from the master." alt="" coords="5,169,124,194"/>
+<area shape="rect" id="node2" href="$group___fo_e.html#ga580f033256860e72f4d06d8acffd1b6d" title="The function is called when the reading of a part of a file is acknowledged." alt="" coords="427,19,506,45"/>
+<area shape="rect" id="node3" href="$group___fo_e.html#gaa909fcea36b2da8106c81d2b118cdad7" title="The function is called when the reading of a part of a file should be repeated." alt="" coords="207,45,294,70"/>
+<area shape="rect" id="node4" href="$group___fo_e.html#ga3364595a9bfe21abf05270a7928c6ab5" title="The function is called to write the next part of a file." alt="" coords="209,94,293,119"/>
+<area shape="rect" id="node5" href="$group___fo_e.html#ga19c1585ae073cddb40871642d8f370ca" title="The function is called when a file transfer is aborted from the other station." alt="" coords="209,143,293,169"/>
+<area shape="rect" id="node6" href="$group___fo_e.html#ga0ab77fb8746313fd5f5fe1d16d4944ea" title="The function starts a file reading." alt="" coords="207,193,294,218"/>
+<area shape="rect" id="node7" href="$group___fo_e.html#gab6a6b4b38171bb3126757d5a89748e28" title="The function starts a file writing." alt="" coords="207,242,294,267"/>
+<area shape="rect" id="node8" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="377,318,556,343"/>
+<area shape="rect" id="node9" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="172,343,329,369"/>
+</map>

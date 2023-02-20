@@ -1,0 +1,4 @@
+<map id="DC_CheckWatchdog" name="DC_CheckWatchdog">
+<area shape="rect" id="node1" title="This function checks the current Sync state and set the local flags The analyse of the local flags is..." alt="" coords="188,5,333,31"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga24b064534e2d86f39c6559d2f0e0c25f" title="This function shall be called every 1ms." alt="" coords="5,5,140,31"/>
+</map>

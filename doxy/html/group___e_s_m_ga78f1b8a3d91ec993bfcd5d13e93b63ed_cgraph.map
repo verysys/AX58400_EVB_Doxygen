@@ -1,0 +1,5 @@
+<map id="StopInputHandler" name="StopInputHandler">
+<area shape="rect" id="node1" title="This function is called in case of the state transition from SAFEOP to PREOP." alt="" coords="5,31,128,56"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="176,5,345,31"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#ga5ff723c2f6832460c934905fb793854c" title="This function makes an logical and with the AL Event Mask register (0x204)" alt="" coords="191,55,330,80"/>
+</map>

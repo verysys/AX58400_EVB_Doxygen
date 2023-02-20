@@ -1,0 +1,32 @@
+<map id="MBX_Main" name="MBX_Main">
+<area shape="rect" id="node1" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="5,676,92,701"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga1fdaabc619ee0bb189574d5c4f989d43" title="The function checks the mailbox header for the requested service and calls the." alt="" coords="140,475,269,500"/>
+<area shape="rect" id="node14" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="942,727,1099,752"/>
+<area shape="rect" id="node29" href="$group___mailbox.html#ga89b696c2f3db8369da2e59994a812f8d" title="This function is used to check if the received mailbox command can be processed." alt="" coords="485,727,680,752"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga31df6aa4a5c916bd4ead5973984bac28" title="This function is called when a CoE (CAN application layer over EtherCAT) service is received from the..." alt="" coords="317,353,437,379"/>
+<area shape="rect" id="node22" href="$group___fo_e.html#ga27b4fabf147cffb3cd32b13a47cb1e0f" title="This function is called when a FoE (File Access over EtherCAT) service is received from the master." alt="" coords="746,475,865,500"/>
+<area shape="rect" id="node4" href="$group___co_e.html#ga0394abd53279e9d89c617f253ae70716" title="This function is called when a SDO request service is received from the master and calls depending fr..." alt="" coords="529,353,637,379"/>
+<area shape="rect" id="node16" href="$group___co_e.html#gaea424209fa91887e00766d2f2e1dcc6a" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="517,179,648,204"/>
+<area shape="rect" id="node5" href="$group___co_e.html#ga8f404783e0616ed89ef30e488781b74b" title="The function looks in all objects of the dictionary after the indicated index and returns a handle if..." alt="" coords="728,203,883,228"/>
+<area shape="rect" id="node7" href="$group___co_e.html#gab0e1938c636b8a07d199f3c668111f42" title="This function returns the size of the requested entry. If bCompleteaccess is set the size of the comp..." alt="" coords="729,576,882,601"/>
+<area shape="rect" id="node8" href="$group___co_e.html#ga846de2860cbe964ff1c13835657fa630" title="This function reads the requested object." alt="" coords="762,304,849,329"/>
+<area shape="rect" id="node11" href="$group___co_e.html#gac4ba05e9e88b439378bfdad39f8c3330" title="This function writes the requested object." alt="" coords="763,353,848,379"/>
+<area shape="rect" id="node13" href="$group___co_e.html#gadf3e4233e53be264db201a3d39489646" title="This function is called when a SDO response shall be sent." alt="" coords="771,625,840,651"/>
+<area shape="rect" id="node6" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="933,153,1109,179"/>
+<area shape="rect" id="node9" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="951,228,1090,253"/>
+<area shape="rect" id="node10" href="$group___co_e.html#ga8228ee16153402a1243bbe5750ef3e40" title="This function calculates the bit offset of the entry in the object&#39;s variable." alt="" coords="949,277,1092,303"/>
+<area shape="rect" id="node12" href="$group___co_e.html#ga882de50b4155fd1bad554dc4a5df81c3" title="Checks if the new Sync type value is valid." alt="" coords="945,327,1096,352"/>
+<area shape="rect" id="node15" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="1159,701,1337,727"/>
+<area shape="rect" id="node17" href="$group___co_e.html#ga5ed6bfe12297ff96319a8aa9b64322c5" title="The function returns size and description string of the requested entry." alt="" coords="752,5,859,31"/>
+<area shape="rect" id="node19" href="$group___co_e.html#gab1a0b27a06131a26c75d6a3f59d1ad14" title="The function counts the number of objects of the requested list type." alt="" coords="729,153,881,179"/>
+<area shape="rect" id="node20" href="$group___co_e.html#ga84c10b0b41cf926e82872533caa95e90" title="The function returns the Obj&#45;Desc of an object to allow the application to define the object dictiona..." alt="" coords="742,55,869,80"/>
+<area shape="rect" id="node21" href="$group___co_e.html#ga65b22bbfb0cf22f30f4d7727aea493f5" title="The function copies (the part of) the object list in the mailbox buffer." alt="" coords="738,104,873,129"/>
+<area shape="rect" id="node18" href="$group___co_e.html#ga0101708ef9bb0404af2a6072cef76f1f" title="The function copies the Number in the string pStr, which shall be initialized with 000." alt="" coords="931,5,1111,31"/>
+<area shape="rect" id="node23" href="$group___fo_e.html#ga580f033256860e72f4d06d8acffd1b6d" title="The function is called when the reading of a part of a file is acknowledged." alt="" coords="1209,549,1287,575"/>
+<area shape="rect" id="node24" href="$group___fo_e.html#gaa909fcea36b2da8106c81d2b118cdad7" title="The function is called when the reading of a part of a file should be repeated." alt="" coords="977,524,1064,549"/>
+<area shape="rect" id="node25" href="$group___fo_e.html#ga3364595a9bfe21abf05270a7928c6ab5" title="The function is called to write the next part of a file." alt="" coords="979,625,1063,651"/>
+<area shape="rect" id="node26" href="$group___fo_e.html#ga19c1585ae073cddb40871642d8f370ca" title="The function is called when a file transfer is aborted from the other station." alt="" coords="979,376,1063,401"/>
+<area shape="rect" id="node27" href="$group___fo_e.html#ga0ab77fb8746313fd5f5fe1d16d4944ea" title="The function starts a file reading." alt="" coords="977,425,1064,451"/>
+<area shape="rect" id="node28" href="$group___fo_e.html#gab6a6b4b38171bb3126757d5a89748e28" title="The function starts a file writing." alt="" coords="977,475,1064,500"/>
+<area shape="rect" id="node30" href="$group___mailbox.html#gaeaab6c1a95eb88d343bbeb04d268c78c" title="This function is called when the Master has written the Receive&#45;Mailbox." alt="" coords="730,727,881,752"/>
+</map>

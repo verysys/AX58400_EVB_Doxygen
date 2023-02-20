@@ -1,0 +1,6 @@
+<map id="COE_ObjInit" name="COE_ObjInit">
+<area shape="rect" id="node1" title="This function initialize the several objects." alt="" coords="5,31,101,56"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga615a5e76634bb7b25eb4c46ade0e21ea" title="This function clear the object dictionary." alt="" coords="149,5,317,31"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gae5486298b12aa22d4e341970c32222fc" title="This function initialize the object dictionary." alt="" coords="156,55,311,80"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga9a6ebba06ebd874ce9789db7a15391ac" title="This function removes an object to the object dictionary." alt="" coords="365,5,524,31"/>
+</map>

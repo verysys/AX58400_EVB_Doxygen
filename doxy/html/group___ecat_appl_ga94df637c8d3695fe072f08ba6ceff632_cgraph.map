@@ -1,0 +1,4 @@
+<map id="HandleCycleTimeMeasurement" name="HandleCycleTimeMeasurement">
+<area shape="rect" id="node1" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="5,5,211,31"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="259,5,409,31"/>
+</map>

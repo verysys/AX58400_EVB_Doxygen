@@ -1,0 +1,14 @@
+<map id="SDOS_SdoInd" name="SDOS_SdoInd">
+<area shape="rect" id="node1" title="This function is called when a SDO request service is received from the master and calls depending fr..." alt="" coords="5,104,113,129"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga8f404783e0616ed89ef30e488781b74b" title="The function looks in all objects of the dictionary after the indicated index and returns a handle if..." alt="" coords="161,5,316,31"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gab0e1938c636b8a07d199f3c668111f42" title="This function returns the size of the requested entry. If bCompleteaccess is set the size of the comp..." alt="" coords="162,55,315,80"/>
+<area shape="rect" id="node5" href="$group___co_e.html#ga846de2860cbe964ff1c13835657fa630" title="This function reads the requested object." alt="" coords="195,104,282,129"/>
+<area shape="rect" id="node8" href="$group___co_e.html#gac4ba05e9e88b439378bfdad39f8c3330" title="This function writes the requested object." alt="" coords="196,153,281,179"/>
+<area shape="rect" id="node10" href="$group___co_e.html#gadf3e4233e53be264db201a3d39489646" title="This function is called when a SDO response shall be sent." alt="" coords="204,203,273,228"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="364,5,540,31"/>
+<area shape="rect" id="node6" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="383,128,521,153"/>
+<area shape="rect" id="node7" href="$group___co_e.html#ga8228ee16153402a1243bbe5750ef3e40" title="This function calculates the bit offset of the entry in the object&#39;s variable." alt="" coords="381,79,523,104"/>
+<area shape="rect" id="node9" href="$group___co_e.html#ga882de50b4155fd1bad554dc4a5df81c3" title="Checks if the new Sync type value is valid." alt="" coords="377,177,527,203"/>
+<area shape="rect" id="node11" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="373,227,531,252"/>
+<area shape="rect" id="node12" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="588,227,767,252"/>
+</map>

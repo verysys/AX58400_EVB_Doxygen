@@ -1,0 +1,24 @@
+<map id="/Users/jsy/temp/CM7_Motor/Src/objdef.c" name="/Users/jsy/temp/CM7_Motor/Src/objdef.c">
+<area shape="rect" id="node1" title="Implementation This file contains the object dictionary access functions." alt="" coords="670,5,817,45"/>
+<area shape="rect" id="node2" href="$ecat__def_8h_source.html" title=" " alt="" coords="677,460,759,485"/>
+<area shape="rect" id="node5" href="$ecatslv_8h.html" title=" " alt="" coords="580,240,653,265"/>
+<area shape="rect" id="node18" href="$coeappl_8h.html" title=" " alt="" coords="665,93,744,119"/>
+<area shape="rect" id="node19" href="$objdef_8h.html" title="CAN application profile over EtherCAT object dictionary." alt="" coords="723,167,791,192"/>
+<area shape="rect" id="node3" title=" " alt="" coords="641,533,705,559"/>
+<area shape="rect" id="node4" title=" " alt="" coords="729,533,795,559"/>
+<area shape="rect" id="node6" href="$esc_8h.html" title="EtherCAT Slave Controller related defines and Types." alt="" coords="587,387,641,412"/>
+<area shape="rect" id="node7" href="$_a_x58400___hw_8h_source.html" title=" " alt="" coords="308,313,419,339"/>
+<area shape="rect" id="node8" title=" " alt="" coords="95,387,157,412"/>
+<area shape="rect" id="node9" title=" " alt="" coords="181,387,303,412"/>
+<area shape="rect" id="node10" title=" " alt="" coords="423,387,562,412"/>
+<area shape="rect" id="node11" href="$ax__intf_8h_source.html" title=" " alt="" coords="327,387,399,412"/>
+<area shape="rect" id="node17" title=" " alt="" coords="5,387,71,412"/>
+<area shape="rect" id="node12" href="$ax__cfg_8h_source.html" title=" " alt="" coords="441,460,513,485"/>
+<area shape="rect" id="node13" href="$ax58400__misc_8h_source.html" title=" " alt="" coords="169,460,286,485"/>
+<area shape="rect" id="node15" href="$ax__esc__regs_8h_source.html" title=" " alt="" coords="310,460,417,485"/>
+<area shape="rect" id="node14" title=" " alt="" coords="162,533,293,559"/>
+<area shape="rect" id="node16" href="$ax__types_8h_source.html" title=" " alt="" coords="320,533,407,559"/>
+<area shape="rect" id="node20" href="$sdoserv_8h.html" title="SDO Service definitions." alt="" coords="718,240,795,265"/>
+<area shape="rect" id="node21" href="$ecatcoe_8h.html" title=" " alt="" coords="717,313,796,339"/>
+<area shape="rect" id="node22" href="$mailbox_8h.html" title=" " alt="" coords="717,387,796,412"/>
+</map>

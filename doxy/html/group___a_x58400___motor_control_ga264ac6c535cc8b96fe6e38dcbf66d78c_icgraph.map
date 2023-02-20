@@ -1,0 +1,11 @@
+<map id="APPL_InputMapping" name="APPL_InputMapping">
+<area shape="rect" id="node1" title="This function will copies the inputs from the local memory to the ESC memory to the hardware." alt="" coords="928,9,1069,34"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga71c82e125fca871d7bf37dbc6b71fcf3" title="This function will copies the inputs from the local memory to the ESC memory." alt="" coords="744,9,880,34"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,34,183,60"/>
+<area shape="rect" id="node5" href="$group___e_s_m.html#ga4e38d64325a35d7925171e6fe3a360f4" title="This function is called in case of the state transition from PREOP to SAFEOP. |brief the areas of the..." alt="" coords="572,34,696,60"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,34,56,60"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="419,58,524,84"/>
+<area shape="rect" id="node7" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="239,34,362,60"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="255,84,347,109"/>
+<area shape="rect" id="node9" href="$group___e_s_m.html#gac55e38cdbb489cea7e6bf78befda716d" title="This function shall be called by the application to trigger state transition in case." alt="" coords="231,133,371,158"/>
+</map>

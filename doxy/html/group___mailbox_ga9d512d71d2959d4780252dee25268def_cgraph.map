@@ -1,0 +1,4 @@
+<map id="MBX_MailboxSendReq" name="MBX_MailboxSendReq">
+<area shape="rect" id="node1" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="5,5,163,31"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="211,5,389,31"/>
+</map>

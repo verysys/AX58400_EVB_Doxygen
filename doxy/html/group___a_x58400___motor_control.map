@@ -1,0 +1,42 @@
+<map id="AX58400_MotorControl" name="AX58400_MotorControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,997,163,1023"/>
+<area shape="rect" id="node2" href="$group___ci_a402_objects.html" title=" " alt="" coords="248,5,391,31"/>
+<area shape="rect" id="node3" href="$group___p_d_o.html" title=" " alt="" coords="244,55,395,80"/>
+<area shape="rect" id="node4" href="$group__x1600.html" title="Object 0x1600 (RxPdoMappingCspCsv) definition." alt="" coords="213,104,425,129"/>
+<area shape="rect" id="node5" href="$group__x1601.html" title="Object 0x1601 (RxPdoMappingCsp) definition." alt="" coords="225,153,413,179"/>
+<area shape="rect" id="node6" href="$group__x1602.html" title="Object 0x1602 (RxPdoMappingCsv) definition." alt="" coords="225,203,413,228"/>
+<area shape="rect" id="node7" href="$group__x1_a00.html" title="Object 0x1A00 (TxPdoMappingCspCsv) definition." alt="" coords="213,252,425,277"/>
+<area shape="rect" id="node8" href="$group__x1_a01.html" title="Object 0x1A01 (TxPdoMappingCsp) definition." alt="" coords="225,301,413,327"/>
+<area shape="rect" id="node9" href="$group__x1_a02.html" title="Object 0x1A02 (TxPdoMappingCsv) definition." alt="" coords="225,351,413,376"/>
+<area shape="rect" id="node10" href="$group__x1_c12.html" title="Object 0x1C12 (SM2 assignment) definition." alt="" coords="231,400,407,425"/>
+<area shape="rect" id="node11" href="$group__x1_c13.html" title="Object 0x1C13 (SM3 assignment) definition." alt="" coords="231,449,407,475"/>
+<area shape="rect" id="node12" href="$group__x603_f.html" title="Object 0x603F (Error Code) definition." alt="" coords="250,499,389,524"/>
+<area shape="rect" id="node13" href="$group__x6040.html" title="Object 0x6040 (Controlword) definition." alt="" coords="247,548,392,573"/>
+<area shape="rect" id="node14" href="$group__x6041.html" title="Object 0x6041 (Statusword) definition." alt="" coords="249,597,390,623"/>
+<area shape="rect" id="node15" href="$group__x604_f.html" title="Object 0x604F (VL Ramp Function Time) definition." alt="" coords="211,647,428,672"/>
+<area shape="rect" id="node16" href="$group__x605_a.html" title="Object 0x605A (Quick stop option code) definition." alt="" coords="250,697,389,737"/>
+<area shape="rect" id="node17" href="$group__x605_b.html" title="Object 0x605B (Shutdown option code) definition." alt="" coords="216,761,423,787"/>
+<area shape="rect" id="node18" href="$group__x605_c.html" title="Object 0x605C (Disable operation option code) definition." alt="" coords="230,811,409,851"/>
+<area shape="rect" id="node19" href="$group__x605_e.html" title="Object 0x605E (Fault reaction option code) definition." alt="" coords="241,875,397,915"/>
+<area shape="rect" id="node20" href="$group__x6060.html" title="Object 0x6060 (Modes of operation) definition." alt="" coords="226,940,413,965"/>
+<area shape="rect" id="node21" href="$group__x6061.html" title="Object 0x6061 (Modes of operation display) definition." alt="" coords="226,990,413,1030"/>
+<area shape="rect" id="node22" href="$group__x6064.html" title="Object 0x6064 (Position actual value) definition." alt="" coords="239,1054,400,1094"/>
+<area shape="rect" id="node23" href="$group__x606_c.html" title="Object 0x606C (Velocity actual value) definition." alt="" coords="237,1118,401,1158"/>
+<area shape="rect" id="node24" href="$group__x6077.html" title="Object 0x6077 (Torque actual value) definition." alt="" coords="243,1182,396,1222"/>
+<area shape="rect" id="node25" href="$group__x607_a.html" title="Object 0x607A (Target position) definition." alt="" coords="239,1247,400,1272"/>
+<area shape="rect" id="node26" href="$group__x607_c.html" title="Object 0x607C (Home offset) definition." alt="" coords="244,1296,395,1321"/>
+<area shape="rect" id="node27" href="$group__x607_d.html" title="Object 0x607D (Software position limit) definition." alt="" coords="230,1346,409,1386"/>
+<area shape="rect" id="node28" href="$group__x6085.html" title="Object 0x6085 (Quick stop deceleration) definition." alt="" coords="250,1410,389,1450"/>
+<area shape="rect" id="node29" href="$group__x6098.html" title="Object 0x6098 (Homing method) definition." alt="" coords="236,1475,403,1500"/>
+<area shape="rect" id="node30" href="$group__x6099.html" title="Object 0x6099 (Homing speed) definition." alt="" coords="240,1524,399,1549"/>
+<area shape="rect" id="node31" href="$group__x609_a.html" title="Object 0x609A (Homing acceleration) definition." alt="" coords="222,1573,417,1599"/>
+<area shape="rect" id="node32" href="$group__x60_c2.html" title="Object 0x60C2 (Interpolation time period) definition." alt="" coords="245,1623,394,1663"/>
+<area shape="rect" id="node33" href="$group__x60_e3.html" title="Object 0x60E3 (Supported homing methods) definition." alt="" coords="251,1687,387,1727"/>
+<area shape="rect" id="node34" href="$group__x60_f_d.html" title="Object 0x60FD (Digital Inputs) definition." alt="" coords="241,1752,397,1777"/>
+<area shape="rect" id="node35" href="$group__x60_f_f.html" title="Object 0x60FF (Target velocity) definition." alt="" coords="238,1801,401,1827"/>
+<area shape="rect" id="node36" href="$group__x6502.html" title="Object 0x6502 (Supported drive modes) definition." alt="" coords="252,1851,387,1891"/>
+<area shape="rect" id="node37" href="$group__x_f000.html" title="Object 0xF000 (Modular device profile) definition." alt="" coords="237,1915,401,1955"/>
+<area shape="rect" id="node38" href="$group__x_f010.html" title="Object 0xF010 (Module profile list) definition." alt="" coords="230,1980,409,2005"/>
+<area shape="rect" id="node39" href="$group__x_f030.html" title="Object 0xF030 (Configured module Ident list) definition." alt="" coords="250,2030,389,2070"/>
+<area shape="rect" id="node40" href="$group__x_f050.html" title="Object 0xF050 (Module detected list) definition." alt="" coords="223,2095,416,2120"/>
+</map>

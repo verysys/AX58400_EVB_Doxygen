@@ -1,0 +1,4 @@
+<map id="FOE_Busy" name="FOE_Busy">
+<area shape="rect" id="node1" title="The function is called when the reading of a part of a file should be repeated." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" href="$group___fo_e.html#ga580f033256860e72f4d06d8acffd1b6d" title="The function is called when the reading of a part of a file is acknowledged." alt="" coords="140,5,219,31"/>
+</map>

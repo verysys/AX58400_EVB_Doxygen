@@ -1,0 +1,6 @@
+<map id="COE_SyncTimeStamp" name="COE_SyncTimeStamp">
+<area shape="rect" id="node1" title="This function updates the local timestamp object (0x10F8) and has to be called at least every 4...." alt="" coords="248,31,403,56"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="113,5,191,31"/>
+<area shape="rect" id="node4" href="$group___co_e.html#gacdcda8070b15c1f22167fe79cdcb5bca" title="This function reads the object 0x10F8." alt="" coords="104,55,200,80"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,56,31"/>
+</map>

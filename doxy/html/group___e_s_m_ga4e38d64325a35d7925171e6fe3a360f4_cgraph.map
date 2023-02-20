@@ -1,0 +1,8 @@
+<map id="StartInputHandler" name="StartInputHandler">
+<area shape="rect" id="node1" title="This function is called in case of the state transition from PREOP to SAFEOP. |brief the areas of the..." alt="" coords="5,55,129,80"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga283de727ed7dab2cbd5d97a8e182148e" title="This function enables a Sync Manager channel." alt="" coords="177,5,343,31"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#ga814ac14c4e4c2a930673b24915731880" title="This function is called to read the SYNC Manager channel descriptions of the process data SYNC Manage..." alt="" coords="211,55,309,80"/>
+<area shape="rect" id="node4" href="$group___ecat_appl.html#ga71c82e125fca871d7bf37dbc6b71fcf3" title="This function will copies the inputs from the local memory to the ESC memory." alt="" coords="192,104,328,129"/>
+<area shape="rect" id="node5" href="$group___a_x58400___motor_control.html#ga264ac6c535cc8b96fe6e38dcbf66d78c" title="This function will copies the inputs from the local memory to the ESC memory to the hardware." alt="" coords="395,79,537,104"/>
+<area shape="rect" id="node6" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="391,128,541,153"/>
+</map>

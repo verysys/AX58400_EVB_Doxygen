@@ -1,0 +1,22 @@
+<map id="MBX_CopyToSendMailbox" name="MBX_CopyToSendMailbox">
+<area shape="rect" id="node1" title="This function copies data to the Send Mailbox." alt="" coords="1528,170,1707,195"/>
+<area shape="rect" id="node2" href="$group___fo_e.html#ga27b4fabf147cffb3cd32b13a47cb1e0f" title="This function is called when a FoE (File Access over EtherCAT) service is received from the master." alt="" coords="1140,94,1259,119"/>
+<area shape="rect" id="node8" href="$group___mailbox.html#gac01d66e6d768b88214b6f886c61d6147" title="This function is called when the Master has read the Send&#45;Mailbox." alt="" coords="748,421,900,446"/>
+<area shape="rect" id="node9" href="$group___mailbox.html#gac477386846f63a8300f9e6f411acadc9" title="This function is called if the Master has requested a resending of the last." alt="" coords="518,25,687,50"/>
+<area shape="rect" id="node10" href="$group___mailbox.html#ga9d512d71d2959d4780252dee25268def" title="This function puts a new Mailbox service in the Send Mailbox." alt="" coords="1323,245,1480,270"/>
+<area shape="rect" id="node3" href="$group___mailbox.html#ga1fdaabc619ee0bb189574d5c4f989d43" title="The function checks the mailbox header for the requested service and calls the." alt="" coords="538,170,667,195"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#ga8beea7a777598316004ce74de245a97a" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="371,245,457,270"/>
+<area shape="rect" id="node5" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="231,245,323,270"/>
+<area shape="rect" id="node6" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,219,183,245"/>
+<area shape="rect" id="node7" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,219,56,245"/>
+<area shape="rect" id="node11" href="$group___co_e.html#gaf5799231571509afd06868a25169af9d" title="This function is called when a CoE service to be sent is stored and can." alt="" coords="948,397,1076,422"/>
+<area shape="rect" id="node12" href="$group___fo_e.html#ga167fed5b6c1b1b85533d3224be6c817a" title="This function is called when the next mailbox fragment can be sent." alt="" coords="949,446,1075,471"/>
+<area shape="rect" id="node13" href="$group___mailbox.html#ga89b696c2f3db8369da2e59994a812f8d" title="This function is used to check if the received mailbox command can be processed." alt="" coords="505,295,700,321"/>
+<area shape="rect" id="node14" href="$group___mailbox.html#gaeaab6c1a95eb88d343bbeb04d268c78c" title="This function is called when the Master has written the Receive&#45;Mailbox." alt="" coords="1124,346,1275,371"/>
+<area shape="rect" id="node15" href="$group___co_e.html#gadf3e4233e53be264db201a3d39489646" title="This function is called when a SDO response shall be sent." alt="" coords="1165,143,1234,169"/>
+<area shape="rect" id="node20" href="$group___co_e.html#gaea424209fa91887e00766d2f2e1dcc6a" title="This function is called when a SDO&#45;Info request service is received from the master and calls dependi..." alt="" coords="1134,245,1265,270"/>
+<area shape="rect" id="node16" href="$group___co_e.html#ga0394abd53279e9d89c617f253ae70716" title="This function is called when a SDO request service is received from the master and calls depending fr..." alt="" coords="958,143,1066,169"/>
+<area shape="rect" id="node18" href="$group___co_e.html#gae51ad4f61320c17615af2b08d385e29d" title="This function is called when a SDO response shall be sent." alt="" coords="955,94,1069,119"/>
+<area shape="rect" id="node17" href="$group___co_e.html#ga31df6aa4a5c916bd4ead5973984bac28" title="This function is called when a CoE (CAN application layer over EtherCAT) service is received from the..." alt="" coords="764,170,884,195"/>
+<area shape="rect" id="node19" href="$group___co_e.html#ga60e0b49d12eedc184aafe91479d2919f" title="is called for background calculations which should not influence the ECAT_Application in synchronous ..." alt="" coords="371,117,457,142"/>
+</map>

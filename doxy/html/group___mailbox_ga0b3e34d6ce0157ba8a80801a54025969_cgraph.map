@@ -1,0 +1,6 @@
+<map id="MBX_StopMailboxHandler" name="MBX_StopMailboxHandler">
+<area shape="rect" id="node1" title="This function includes the state transition from." alt="" coords="5,55,180,80"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="245,5,415,31"/>
+<area shape="rect" id="node3" href="$group___fo_e.html#ga3c6a0c463ba3d7b65638de428fe21137" title="This function initialize the FoE Interface." alt="" coords="293,55,367,80"/>
+<area shape="rect" id="node4" href="$group___co_e.html#ga38233aa51a686cb0d9664c5c2719b1f5" title="Clear the variables handling a pending SDO Response This function shall be called before the other ma..." alt="" coords="228,104,432,129"/>
+</map>

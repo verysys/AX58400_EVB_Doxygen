@@ -1,0 +1,12 @@
+<map id="SdoRes" name="SdoRes">
+<area shape="rect" id="node1" title="This function is called when a SDO response shall be sent." alt="" coords="1013,32,1083,57"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga0394abd53279e9d89c617f253ae70716" title="This function is called when a SDO request service is received from the master and calls depending fr..." alt="" coords="854,7,962,32"/>
+<area shape="rect" id="node9" href="$group___co_e.html#gae51ad4f61320c17615af2b08d385e29d" title="This function is called when a SDO response shall be sent." alt="" coords="851,56,965,81"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga31df6aa4a5c916bd4ead5973984bac28" title="This function is called when a CoE (CAN application layer over EtherCAT) service is received from the..." alt="" coords="683,5,803,31"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#ga1fdaabc619ee0bb189574d5c4f989d43" title="The function checks the mailbox header for the requested service and calls the." alt="" coords="505,5,635,31"/>
+<area shape="rect" id="node5" href="$group___mailbox.html#ga8beea7a777598316004ce74de245a97a" title="This function is called cyclically to check if a received Mailbox service was stored." alt="" coords="371,5,457,31"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="231,5,323,31"/>
+<area shape="rect" id="node7" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,31,183,56"/>
+<area shape="rect" id="node8" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,56,56"/>
+<area shape="rect" id="node10" href="$group___co_e.html#ga60e0b49d12eedc184aafe91479d2919f" title="is called for background calculations which should not influence the ECAT_Application in synchronous ..." alt="" coords="527,56,613,81"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="APPL_StopOutputHandler" name="APPL_StopOutputHandler">
+<area shape="rect" id="node1" title="The function is called in the state transition from OP to SAFEOP to stop the output handler...." alt="" coords="5,5,180,31"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#gaff043e554275519b0c1a6c250f6b4ce1" title="CiA402_LocalError." alt="" coords="228,5,359,31"/>
+</map>

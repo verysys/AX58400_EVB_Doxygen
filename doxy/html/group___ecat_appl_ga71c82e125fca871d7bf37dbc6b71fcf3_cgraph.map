@@ -1,0 +1,5 @@
+<map id="PDO_InputMapping" name="PDO_InputMapping">
+<area shape="rect" id="node1" title="This function will copies the inputs from the local memory to the ESC memory." alt="" coords="5,31,141,56"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#ga264ac6c535cc8b96fe6e38dcbf66d78c" title="This function will copies the inputs from the local memory to the ESC memory to the hardware." alt="" coords="194,5,335,31"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="189,55,340,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OBJ_GetObjectList" name="OBJ_GetObjectList">
+<area shape="rect" id="node1" title="The function copies (the part of) the object list in the mailbox buffer." alt="" coords="5,31,140,56"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga3611a9c9b6c7e5e82f6feb3adde46edc" title="returns the pointer to the object dictionary" alt="" coords="188,5,364,31"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="207,55,345,80"/>
+</map>

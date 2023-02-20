@@ -1,0 +1,9 @@
+<map id="TCiA402Axis" name="TCiA402Axis">
+<area shape="rect" id="node1" title="Data structure to handle an Cia402 axis." alt="" coords="611,523,709,548"/>
+<area shape="rect" id="node2" href="$struct_o_b_j___s_t_r_u_c_t___p_a_c_k_e_d___s_t_a_r_t.html" title="Data structure to handle the axis specific object data." alt="" coords="5,367,227,392"/>
+<area shape="rect" id="node3" href="$struct_o_b_j___e_n_t_r_y.html" title="Object dictionary entry structure." alt="" coords="449,367,551,392"/>
+<area shape="rect" id="node4" href="$struct_m_b_x___s_t_r_u_c_t___p_a_c_k_e_d___s_t_a_r_t.html" title="CoE Mailbox header." alt="" coords="388,196,612,221"/>
+<area shape="rect" id="node5" href="$struct_m_b_x___s_t_r_u_c_t___p_a_c_k_e_d___s_t_a_r_t_1_1_m_b_x___s_t_r_u_c_t___p_a_c_k_e_d___s_ta6566497e5b5337844e56e2fd22e59a8.html" title=" " alt="" coords="384,5,616,60"/>
+<area shape="rect" id="node6" href="$struct_c_i_a402___f_u_n_c___i_n_t_f.html" title=" " alt="" coords="639,367,787,392"/>
+<area shape="rect" id="node7" href="$union_c_i_a402___f_l_a_g_s.html" title=" " alt="" coords="811,367,927,392"/>
+</map>

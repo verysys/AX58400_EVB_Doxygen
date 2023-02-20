@@ -1,0 +1,6 @@
+<map id="PDO_OutputMapping" name="PDO_OutputMapping">
+<area shape="rect" id="node1" title="This function will copies the outputs from the ESC memory to the local memory. This function is only ..." alt="" coords="5,56,152,81"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#gab2f2a02f0a6ad6748c8b03873d496ed7" title="This function will copies the outputs from the ESC memory to the local memory to the hardware." alt="" coords="227,5,378,31"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="453,81,604,107"/>
+<area shape="rect" id="node4" href="$group___ecat_appl.html#ga94df637c8d3695fe072f08ba6ceff632" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="200,107,405,132"/>
+</map>

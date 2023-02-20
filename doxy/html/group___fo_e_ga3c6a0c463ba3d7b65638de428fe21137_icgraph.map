@@ -1,0 +1,11 @@
+<map id="FOE_Init" name="FOE_Init">
+<area shape="rect" id="node1" title="This function initialize the FoE Interface." alt="" coords="800,55,875,80"/>
+<area shape="rect" id="node2" href="$group___mailbox.html#ga0b3e34d6ce0157ba8a80801a54025969" title="This function includes the state transition from." alt="" coords="577,55,752,80"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="421,55,527,80"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#gac55e38cdbb489cea7e6bf78befda716d" title="This function shall be called by the application to trigger state transition in case." alt="" coords="231,104,371,129"/>
+<area shape="rect" id="node9" href="$group___e_s_m.html#ga56dd01ef4d44ebaa606707358a44fed0" title="This function is called cyclic if a state transition is pending (bEcatWaitForAlControlRes == TRUE)" alt="" coords="419,5,529,31"/>
+<area shape="rect" id="node4" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="239,55,362,80"/>
+<area shape="rect" id="node7" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="255,5,347,31"/>
+<area shape="rect" id="node5" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,31,183,56"/>
+<area shape="rect" id="node6" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,56,56"/>
+</map>

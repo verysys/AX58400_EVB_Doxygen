@@ -1,0 +1,8 @@
+<map id="CiA402_TransitionAction" name="CiA402_TransitionAction">
+<area shape="rect" id="node1" title="CiA402&#45;TransitionAction." alt="" coords="765,5,932,31"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#ga05e3b8d0f5b49b8fd5e5b1dfd8f3c5c4" title="CiA402&#45;Application." alt="" coords="581,5,717,31"/>
+<area shape="rect" id="node3" href="$group___a_x58400___motor_control.html#ga9607e14bdd12fe885d737ea68ef53c86" title="This function will called from the synchronisation ISR or from the mainloop if no synchronisation is ..." alt="" coords="407,5,533,31"/>
+<area shape="rect" id="node4" href="$group___ecat_appl.html#ga46f3f504345151303bd26217075d03e6" title="ECAT_Application (prev. SSC versions &quot;COE_Application&quot;) this function calculates and the physical pro..." alt="" coords="231,5,359,31"/>
+<area shape="rect" id="node5" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,5,183,31"/>
+<area shape="rect" id="node6" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,56,31"/>
+</map>

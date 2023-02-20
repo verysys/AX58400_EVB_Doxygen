@@ -1,0 +1,4 @@
+<map id="OBJ_GetDesc" name="OBJ_GetDesc">
+<area shape="rect" id="node1" title="The function returns size and description string of the requested entry." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga0101708ef9bb0404af2a6072cef76f1f" title="The function copies the Number in the string pStr, which shall be initialized with 000." alt="" coords="160,5,340,31"/>
+</map>

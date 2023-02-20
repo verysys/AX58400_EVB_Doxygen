@@ -1,0 +1,6 @@
+<map id="MBX_MailboxRepeatReq" name="MBX_MailboxRepeatReq">
+<area shape="rect" id="node1" title="This function is called if the Master has requested a resending of the last." alt="" coords="5,55,175,80"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="227,5,397,31"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#ga283de727ed7dab2cbd5d97a8e182148e" title="This function enables a Sync Manager channel." alt="" coords="229,55,395,80"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#ga2c176cf26d7e69442a2df95299c48ab5" title="This function copies data to the Send Mailbox." alt="" coords="223,104,401,129"/>
+</map>

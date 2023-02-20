@@ -1,0 +1,6 @@
+<map id="APPL_OutputMapping" name="APPL_OutputMapping">
+<area shape="rect" id="node1" title="This function will copies the outputs from the ESC memory to the local memory to the hardware." alt="" coords="425,5,576,31"/>
+<area shape="rect" id="node2" href="$group___ecat_appl.html#ga5f754886fd72070e2fe19fc6bf208a16" title="This function will copies the outputs from the ESC memory to the local memory. This function is only ..." alt="" coords="231,5,377,31"/>
+<area shape="rect" id="node3" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,5,183,31"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,56,31"/>
+</map>

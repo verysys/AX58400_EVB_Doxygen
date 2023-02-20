@@ -1,0 +1,10 @@
+<map id="ECAT_Application" name="ECAT_Application">
+<area shape="rect" id="node1" title="ECAT_Application (prev. SSC versions &quot;COE_Application&quot;) this function calculates and the physical pro..." alt="" coords="5,80,133,105"/>
+<area shape="rect" id="node2" href="$group___a_x58400___motor_control.html#ga9607e14bdd12fe885d737ea68ef53c86" title="This function will called from the synchronisation ISR or from the mainloop if no synchronisation is ..." alt="" coords="221,29,347,55"/>
+<area shape="rect" id="node7" href="$group___ecat_appl.html#gaae739227878cd81c28b6fc3621ff50bb" title="indicates if the initialization is finished" alt="" coords="439,105,589,131"/>
+<area shape="rect" id="node8" href="$group___ecat_appl.html#ga94df637c8d3695fe072f08ba6ceff632" title="In case of non DC synchronization the cycle time measurement is started and 0x1C3...." alt="" coords="181,131,387,156"/>
+<area shape="rect" id="node3" href="$group___a_x58400___motor_control.html#ga05e3b8d0f5b49b8fd5e5b1dfd8f3c5c4" title="CiA402&#45;Application." alt="" coords="446,5,582,31"/>
+<area shape="rect" id="node5" href="$group___a_x58400___motor_control.html#ga1d0e1e0c6b6c9d7f335107ff5ca6f8f0" title="CiA402_UpdateObjects." alt="" coords="435,55,593,80"/>
+<area shape="rect" id="node4" href="$group___a_x58400___motor_control.html#gac2d84794cdfcac29269a7b848b817263" title="CiA402&#45;TransitionAction." alt="" coords="641,5,808,31"/>
+<area shape="rect" id="node6" href="$group___a_x58400___motor_control.html#gaff043e554275519b0c1a6c250f6b4ce1" title="CiA402_LocalError." alt="" coords="659,55,790,80"/>
+</map>

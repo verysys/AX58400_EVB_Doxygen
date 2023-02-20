@@ -1,0 +1,6 @@
+<map id="OBJ_Write" name="OBJ_Write">
+<area shape="rect" id="node1" title="This function writes the requested object." alt="" coords="5,55,91,80"/>
+<area shape="rect" id="node2" href="$group___co_e.html#ga882de50b4155fd1bad554dc4a5df81c3" title="Checks if the new Sync type value is valid." alt="" coords="139,5,289,31"/>
+<area shape="rect" id="node3" href="$group___co_e.html#ga0bfc9f7ce524dc5b66bb54e150e6e26d" title="The function returns the Entry&#45;Desc of a subindex to allow the application to define the object dicti..." alt="" coords="145,55,283,80"/>
+<area shape="rect" id="node4" href="$group___co_e.html#ga8228ee16153402a1243bbe5750ef3e40" title="This function calculates the bit offset of the entry in the object&#39;s variable." alt="" coords="143,104,285,129"/>
+</map>

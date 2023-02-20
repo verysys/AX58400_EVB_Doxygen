@@ -1,0 +1,9 @@
+<map id="ECAT_Init" name="ECAT_Init">
+<area shape="rect" id="node1" title="This function initialize the EtherCAT Slave Interface." alt="" coords="5,129,88,155"/>
+<area shape="rect" id="node2" href="$group___co_e.html#gad49be12b63bed6faee53af1907e9d7d4" title="This function intialize the CoE Interface." alt="" coords="195,5,271,31"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#ga8ace124ef03d8fd1500c1176c1b80637" title="This function disables a Sync Manager channel." alt="" coords="149,55,318,80"/>
+<area shape="rect" id="node4" href="$group___mailbox.html#ga6b06545f8b5a846627db49ba48fb802d" title="This function intialize the Mailbox Interface." alt="" coords="195,104,271,129"/>
+<area shape="rect" id="node5" href="$group___e_s_m.html#ga5ff723c2f6832460c934905fb793854c" title="This function makes an logical and with the AL Event Mask register (0x204)" alt="" coords="164,153,303,179"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#gad679fd59022ecf652f8fd101dfbf6b27" title="The function changes the state of the EtherCAT ASIC to the requested." alt="" coords="185,203,281,228"/>
+<area shape="rect" id="node7" href="$group___e_s_m.html#ga6ca0f4eed56b537df7945db757b70abf" title="This function reads the EEPROM loaded state." alt="" coords="136,252,331,277"/>
+</map>

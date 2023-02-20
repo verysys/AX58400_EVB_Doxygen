@@ -1,0 +1,12 @@
+<map id="SetALStatus" name="SetALStatus">
+<area shape="rect" id="node1" title="The function changes the state of the EtherCAT ASIC to the requested." alt="" coords="577,80,673,105"/>
+<area shape="rect" id="node2" href="$group___e_s_m.html#ga5a78efdc12307e99f518f80ecb9bc870" title="This function handles the EtherCAT State Machine. It is called in case of an AL Control event (Bit 0 ..." alt="" coords="421,55,527,80"/>
+<area shape="rect" id="node7" href="$group___e_s_m.html#gac55e38cdbb489cea7e6bf78befda716d" title="This function shall be called by the application to trigger state transition in case." alt="" coords="231,105,371,131"/>
+<area shape="rect" id="node8" href="$group___e_s_m.html#ga56dd01ef4d44ebaa606707358a44fed0" title="This function is called cyclic if a state transition is pending (bEcatWaitForAlControlRes == TRUE)" alt="" coords="419,5,529,31"/>
+<area shape="rect" id="node9" href="$group___e_s_m.html#ga0f8c9a93c3adc935765074b5c28386e7" title="This function initialize the EtherCAT Slave Interface." alt="" coords="433,156,515,181"/>
+<area shape="rect" id="node3" href="$group___e_s_m.html#gaf68f1e7ef2d03406b9fc96486fd95f9c" title="Checks communication and synchronisation variables and update AL status / AL status code if an error ..." alt="" coords="239,56,362,81"/>
+<area shape="rect" id="node6" href="$group___e_s_m.html#ga663d6c9ecf65b65420299478d610ca2c" title="This function has to be called cyclically." alt="" coords="255,7,347,32"/>
+<area shape="rect" id="node4" href="$group___ecat_appl.html#ga3130642662f05cd3a23c0c8a3b2e3dd0" title="This function handles the low priority function like EtherCAT state machine." alt="" coords="104,56,183,81"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,107,56,132"/>
+<area shape="rect" id="node10" href="$group___ecat_appl.html#ga7b51e775a5a1c79869cc5a12e5dd6a48" title="Initialize the generic slave stack." alt="" coords="109,131,177,156"/>
+</map>
